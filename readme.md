@@ -1,4 +1,4 @@
-The master branch works with iTop 2.5.x .
+This branch works with iTop 2.5.x .
 Everything under the **extensions** folder is considered stable.
  
 # Folders
